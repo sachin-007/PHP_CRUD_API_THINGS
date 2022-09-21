@@ -5,7 +5,7 @@
 $url="http://127.0.0.1:8000/assignment";
 $data_array=array(
 
-    "assid"=>3,
+
     "end_year"=> 2022,
     "intensity"=> 6,
     "sector"=> "Energy",
